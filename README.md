@@ -4,7 +4,6 @@ track map link: http://ukre.ddns.net:3876
 
 Requires Forge 1.19.2 - https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html
 
-Must install WaterMedia seperately - https://www.curseforge.com/minecraft/mc-mods/watermedia
 
 This is the modpack for the server
 
