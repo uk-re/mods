@@ -61,8 +61,6 @@ Simple Backups - melanx
 
 Steam rails - IThundxr
 
-Sythemod1 - Unknown
-
 Security Craft - geforce132
 
 alloyed - MythrilBagels
@@ -96,8 +94,6 @@ create - simibubi
 create new age - nullblade 
 
 create stuff additions - furti_two
-
-create track map - littlechasiu
 
 create central kitchen - dragonsplus
 
@@ -160,8 +156,6 @@ saturn mc - AbdElAziz333
 secret rooms - AbrarSyed
 
 skiing - Affehund
-
-slice and dice - possible_triangle
 
 smooth chunk - someaddon
 
