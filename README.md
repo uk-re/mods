@@ -1,6 +1,6 @@
-Server link : http://ukre1.ddns.net:25575
+Server link : http://ukre.ddns.net:25575
 
-track map link: http://ukre1.ddns.net:3876
+track map link: http://ukre.ddns.net:3876
 
 Requires Forge 1.19.2 - https://files.minecraftforge.net/net/minecraftforge/forge/index_1.19.2.html
 
